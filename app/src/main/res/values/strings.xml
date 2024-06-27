@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Universel-link</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://logintask-e531c.web.app/.well-known/assetlinks.json\" }]</string>
+</resources>
