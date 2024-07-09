@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724087294927",
+    "project_id": "logintask-e531c",
+    "storage_bucket": "logintask-e531c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724087294927:android:b3ca8b423cd843951060ba",
+        "android_client_info": {
+          "package_name": "com.example.universel_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724087294927-mvkcre4uj7souhr9v6k9h61ae9e3gcop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwvx9TeuYVRkSuVLvF1up7sXklm5R5X-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724087294927-mvkcre4uj7souhr9v6k9h61ae9e3gcop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
